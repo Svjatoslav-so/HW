@@ -1,0 +1,10 @@
+Student Ivasyk Bulkin trinolyatrulyalya Python11
+Student Grigoiy Terkin +387415874165 Python21
+Student Anna Chechetkina +04478451235 C++14
+Student Svetlana Bulkina trinolyatrulyalya2 Python11
+Student Anatloiy Fedorov 0991234756 C++17
+Person Vasya  pupkin trinolyatrulyalya
+Person Gora Tereshkin +3874159767165
+Person Angelina Cherkashena +04409451235
+Teacher Olena Vilka trinolyatrulyalya2 English
+Teacher Oksana Shmaly 0991234756 Programming
