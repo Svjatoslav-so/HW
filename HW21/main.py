@@ -53,7 +53,7 @@ yachtworld = BoatsSite(yachtworld_url, yachtworld_start_page, yachtworld_li_list
 
 parallel_parser = ParallelPageParser()
 recurs_parser = BoatsParser()
-new_parser = FastParser(3)
+new_parser = FastParser(10)
 
 boats_list = []
 
